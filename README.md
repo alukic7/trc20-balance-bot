@@ -27,4 +27,4 @@ I couldn’t find a tool convenient enough for this purpose, so I built one myse
 
     npm start
 
-## NOTE: Wallets tracked by this bot are seen by all the users with access. Make sure you set ALLOWED_USERS variable correctly.
+### NOTE: Wallets tracked by this bot are seen by all the users with access. Make sure you set ALLOWED_USERS variable correctly.
